@@ -1,0 +1,1701 @@
+canonical_identifier: bkk:krp/KR6p0084/v1
+canonical_location: https://kanripo.org/bkk/KR6p0084/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 禮念彌陀道場懺法
+  identifiers:
+    alt_id:
+    - X74n1467
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1467.xml
+    old_id: X74n1467
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0084_000.yaml, hash: 'sha256:3a90630fb20efeb7b90f33312c8e8ea98d2f07b9815763c7c77a728d3fd50e67'}
+  - {seq: 1, filename: KR6p0084_001.yaml, hash: 'sha256:f7f25ad8798415765613fbad94cb2c3f7d2137ef0aef73e31a0c87fce4dc80cc'}
+  - {seq: 2, filename: KR6p0084_002.yaml, hash: 'sha256:37b74ac1991e6c84995b462ee04b0071aefa66ad2e40adf34ecc6c9c094fe3b8'}
+  - {seq: 3, filename: KR6p0084_003.yaml, hash: 'sha256:19ddc090f688da35055da7ca12387c33e3970abc2fc5c621a6e0b1fa0ddebdf1'}
+  - {seq: 4, filename: KR6p0084_004.yaml, hash: 'sha256:fa879e1986de355dc1e2830e8e34bd4c312850a146837627d9cc4e9e3bfa6080'}
+  - {seq: 5, filename: KR6p0084_005.yaml, hash: 'sha256:ba56d1bc0209c89b44ae77a52f61b9c1bb2fda6404c7032a27d4fd7f9a461d1f'}
+  - {seq: 6, filename: KR6p0084_006.yaml, hash: 'sha256:15ea0f54f2582f5edf93653b57dad3ee862d8c2e2545799088522b73fda6b69c'}
+  - {seq: 7, filename: KR6p0084_007.yaml, hash: 'sha256:c8d736a4b1d53d147c1b2adee38c7d8933880c202f8a72865b77a3aa8e7e416e'}
+  - {seq: 8, filename: KR6p0084_008.yaml, hash: 'sha256:96b964bb060ec949e773b571203414279309c9b2db376accaad6a0c96ae2af08'}
+  - {seq: 9, filename: KR6p0084_009.yaml, hash: 'sha256:a83797f4c43552769c989365876f822550938cbd1d2a8ead671c97eb0cc5729f'}
+  - {seq: 10, filename: KR6p0084_010.yaml, hash: 'sha256:2960bf230e99cab512e1546e8780ed46f2b364384535790023a61d6f11a16523'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0084_000.markers.yaml, hash: 'sha256:66bbef6f4e8e3be57ec7145adb96c0c724196464d4d01cf9b0cdef4eb40870e3'}
+  - {seq: 1, role: markers, filename: assets/KR6p0084_001.markers.yaml, hash: 'sha256:256df58121b22b2027c2b8653441e14d9efaa7450bbcf4ca6198d6bcd3d61729'}
+  - {seq: 2, role: markers, filename: assets/KR6p0084_002.markers.yaml, hash: 'sha256:416d00fc3421e4638fd2036d1b6b7180316dbb62e0560ef4db93d025b1e650d3'}
+  - {seq: 3, role: markers, filename: assets/KR6p0084_003.markers.yaml, hash: 'sha256:a45dae77779bd6a6cc3c6aa2aec7cc61be37ad8aa22428c174528b2328f1d955'}
+  - {seq: 4, role: markers, filename: assets/KR6p0084_004.markers.yaml, hash: 'sha256:fdff844c1947d497689734528380f70d4ba8c2d791d79d21102c25d7d97f3ca4'}
+  - {seq: 5, role: markers, filename: assets/KR6p0084_005.markers.yaml, hash: 'sha256:7b254249fb99d317fa92108d92f4534ceaa97b799624a6eec815475cddba2b01'}
+  - {seq: 6, role: markers, filename: assets/KR6p0084_006.markers.yaml, hash: 'sha256:cb49896f304333c4a668f5bdcef5a1becef055f62c77cebe887a0aad94577965'}
+  - {seq: 7, role: markers, filename: assets/KR6p0084_007.markers.yaml, hash: 'sha256:e9978bf169ab6e8d6901b005a8bf826ad8da66fd667e3bc24112b618bbdf78e0'}
+  - {seq: 8, role: markers, filename: assets/KR6p0084_008.markers.yaml, hash: 'sha256:15516e592b1edec5d02979753912b3d5eca36816a42667889c021c9c4014f0f7'}
+  - {seq: 9, role: markers, filename: assets/KR6p0084_009.markers.yaml, hash: 'sha256:f630da0f8d3b145b4706e8150155e3b782541339fd40b5d7ff7d0fb88e7937c7'}
+  - {seq: 10, role: markers, filename: assets/KR6p0084_010.markers.yaml, hash: 'sha256:5275f76e1312e843883886f339459e5d57da5e3bd8d3cb53c2665d80ed803d34'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0084_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1467-A 重刊禮念彌陀道場懺法序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0084_X_000-mulu-2
+    span:
+    - front
+    - 333
+    - 333
+  label: No. 1467-B 彌陀懺讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0084_X_000-mulu-3
+    span:
+    - front
+    - 737
+    - 737
+  label: No. 1467-C 彌陀懺序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0084_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5935
+  label: 禮念彌陀道場懺法卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0084_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0084_X_001-mulu-2
+    span:
+    - body
+    - 1082
+    - 1082
+  label: 啟請三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0084_X_001-mulu-3
+    span:
+    - body
+    - 1703
+    - 1703
+  label: 歸依西方三寶第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0084_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 8824
+  label: 禮念彌陀道場懺法卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0084_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 決疑生信第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 8599
+  label: 禮念彌陀道場懺法卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 引教比證第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-3
+    span:
+    - body
+    - 956
+    - 956
+  label: 釋迦教主　偏讚法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-4
+    span:
+    - body
+    - 1581
+    - 1581
+  label: 馬鳴論主　起信法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-5
+    span:
+    - body
+    - 1889
+    - 1889
+  label: 坦淵記主　甘露法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-6
+    span:
+    - body
+    - 2206
+    - 2206
+  label: 慈覺長老　語錄法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-7
+    span:
+    - body
+    - 3081
+    - 3081
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-8
+    span:
+    - body
+    - 3400
+    - 3400
+  label: 香山居士　誓願法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-9
+    span:
+    - body
+    - 3557
+    - 3557
+  label: 唐李太白　讚序法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-10
+    span:
+    - body
+    - 3809
+    - 3809
+  label: 東坡居士　偈頌法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-11
+    span:
+    - body
+    - 3946
+    - 3946
+  label: 楊無為子　序讚法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-12
+    span:
+    - body
+    - 4611
+    - 4611
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-13
+    span:
+    - body
+    - 4908
+    - 4908
+  label: 孝祥狀元　序引法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-14
+    span:
+    - body
+    - 5288
+    - 5288
+  label: 龍舒虗中　淨土法門　店邸雨具　勸預求生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-15
+    span:
+    - body
+    - 5651
+    - 5651
+  label: 佛示阿難　勸凡求生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-16
+    span:
+    - body
+    - 6049
+    - 6049
+  label: 現禾俱益　勸俗求生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-17
+    span:
+    - body
+    - 6526
+    - 6526
+  label: 因少果多　勸眾求生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-18
+    span:
+    - body
+    - 6910
+    - 6910
+  label: 比校優劣　勸迷求生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-19
+    span:
+    - body
+    - 7185
+    - 7185
+  label: 雙明十戒　勸儒求生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-20
+    span:
+    - body
+    - 7707
+    - 7707
+  label: 勤修須斷　勸執求生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0084_X_003-mulu-21
+    span:
+    - body
+    - 8076
+    - 8076
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 8939
+  label: 禮念彌陀道場懺法卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 往生傳錄第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-3
+    span:
+    - body
+    - 458
+    - 458
+  label: 廬山遠公　結社往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-4
+    span:
+    - body
+    - 755
+    - 755
+  label: 晉闕公則　報現往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-5
+    span:
+    - body
+    - 830
+    - 830
+  label: 天台智者　三昧往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-6
+    span:
+    - body
+    - 1173
+    - 1173
+  label: 後魏曇鸞　神異往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-7
+    span:
+    - body
+    - 1494
+    - 1494
+  label: 前唐少康　放光往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-8
+    span:
+    - body
+    - 1843
+    - 1843
+  label: 啟芳圓果　聞鍾往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-9
+    span:
+    - body
+    - 2082
+    - 2082
+  label: 台州懷玉　金臺往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-10
+    span:
+    - body
+    - 2315
+    - 2315
+  label: 相州道昂　樂西往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-11
+    span:
+    - body
+    - 2561
+    - 2561
+  label: 隋二沙彌　同時往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-12
+    span:
+    - body
+    - 2798
+    - 2798
+  label: 明州可久　報信往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-13
+    span:
+    - body
+    - 2953
+    - 2953
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-14
+    span:
+    - body
+    - 3280
+    - 3280
+  label: 長安淨真　授記往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-15
+    span:
+    - body
+    - 3451
+    - 3451
+  label: 丹陽道瑗　佛現往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-16
+    span:
+    - body
+    - 3582
+    - 3582
+  label: 洛陽悟性　中品往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-17
+    span:
+    - body
+    - 3655
+    - 3655
+  label: 尼大明月　聞香往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-18
+    span:
+    - body
+    - 3741
+    - 3741
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-19
+    span:
+    - body
+    - 4018
+    - 4018
+  label: 烏長國王　見佛往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-20
+    span:
+    - body
+    - 4148
+    - 4148
+  label: 學士張抗　持課往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-21
+    span:
+    - body
+    - 4260
+    - 4260
+  label: 晉劉遺民　摩頂往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-22
+    span:
+    - body
+    - 4553
+    - 4553
+  label: 信士牧鄉　執幡往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-23
+    span:
+    - body
+    - 4725
+    - 4725
+  label: 京兆房翥　勸化往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-24
+    span:
+    - body
+    - 4843
+    - 4843
+  label: 宋郡希文　神遊脫難
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-25
+    span:
+    - body
+    - 5005
+    - 5005
+  label: 參軍仲回　問疑往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-26
+    span:
+    - body
+    - 5456
+    - 5456
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-27
+    span:
+    - body
+    - 5698
+    - 5698
+  label: 隨文皇后　異香往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-28
+    span:
+    - body
+    - 5780
+    - 5780
+  label: 荊王夫人　立化往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-29
+    span:
+    - body
+    - 6162
+    - 6162
+  label: 夫人馮氏　病差往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-30
+    span:
+    - body
+    - 6447
+    - 6447
+  label: 觀音縣君　侍女往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-31
+    span:
+    - body
+    - 6737
+    - 6737
+  label: 信女梁氏　目明往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-32
+    span:
+    - body
+    - 6839
+    - 6839
+  label: 溫文靜妻　辭親往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-33
+    span:
+    - body
+    - 7050
+    - 7050
+  label: 姚范行婆　佛候往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-34
+    span:
+    - body
+    - 7120
+    - 7120
+  label: 世子童女　勸母往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-35
+    span:
+    - body
+    - 7213
+    - 7213
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-36
+    span:
+    - body
+    - 7610
+    - 7610
+  label: 犯戒雄俊　暴亡往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-37
+    span:
+    - body
+    - 7737
+    - 7737
+  label: 販鷄鍾馗　念佛往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-38
+    span:
+    - body
+    - 7822
+    - 7822
+  label: 屠牛善和　十念往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-39
+    span:
+    - body
+    - 7947
+    - 7947
+  label: 冤鬼仲舉　急念往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-40
+    span:
+    - body
+    - 8113
+    - 8113
+  label: 瘤病吳瓊　一聲往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0084_X_004-mulu-41
+    span:
+    - body
+    - 8345
+    - 8345
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 6023
+  label: 禮念彌陀道場懺法卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 極樂莊嚴第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-3
+    span:
+    - body
+    - 311
+    - 311
+  label: 法藏誓願　修因莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-4
+    span:
+    - body
+    - 465
+    - 465
+  label: 四十八願　願力莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-5
+    span:
+    - body
+    - 473
+    - 473
+  label: 惡趣無名願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-6
+    span:
+    - body
+    - 501
+    - 501
+  label: 無墮惡道願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-7
+    span:
+    - body
+    - 528
+    - 528
+  label: 同真金色願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-8
+    span:
+    - body
+    - 557
+    - 557
+  label: 形貌無差願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-9
+    span:
+    - body
+    - 584
+    - 584
+  label: 成就宿命願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-10
+    span:
+    - body
+    - 618
+    - 618
+  label: 生獲天眼願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-11
+    span:
+    - body
+    - 653
+    - 653
+  label: 生獲天耳願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-12
+    span:
+    - body
+    - 689
+    - 689
+  label: 普知心行願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-13
+    span:
+    - body
+    - 727
+    - 727
+  label: 神足超越願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-14
+    span:
+    - body
+    - 763
+    - 763
+  label: 淨無我想願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-15
+    span:
+    - body
+    - 790
+    - 790
+  label: 決定正覺願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-16
+    span:
+    - body
+    - 819
+    - 819
+  label: 光明普照願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-17
+    span:
+    - body
+    - 854
+    - 854
+  label: 壽量無窮願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-18
+    span:
+    - body
+    - 885
+    - 885
+  label: 聲聞無數願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-19
+    span:
+    - body
+    - 915
+    - 915
+  label: 眾生長壽願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-20
+    span:
+    - body
+    - 947
+    - 947
+  label: 皆獲善名願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-21
+    span:
+    - body
+    - 972
+    - 972
+  label: 諸佛稱讚願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-22
+    span:
+    - body
+    - 1004
+    - 1004
+  label: 十念往生願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-23
+    span:
+    - body
+    - 1052
+    - 1052
+  label: 臨終現前願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-24
+    span:
+    - body
+    - 1092
+    - 1092
+  label: 迴向皆生願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-25
+    span:
+    - body
+    - 1128
+    - 1128
+  label: 具足妙相願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-26
+    span:
+    - body
+    - 1157
+    - 1157
+  label: 咸階補處願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-27
+    span:
+    - body
+    - 1194
+    - 1194
+  label: 晨供他方願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-28
+    span:
+    - body
+    - 1235
+    - 1235
+  label: 所須滿足願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-29
+    span:
+    - body
+    - 1274
+    - 1274
+  label: 善入本智願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-30
+    span:
+    - body
+    - 1303
+    - 1303
+  label: 那羅延力願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-31
+    span:
+    - body
+    - 1333
+    - 1333
+  label: 莊嚴無量願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-32
+    span:
+    - body
+    - 1365
+    - 1365
+  label: 寶樹悉知願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-33
+    span:
+    - body
+    - 1398
+    - 1398
+  label: 獲勝辯才願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-34
+    span:
+    - body
+    - 1426
+    - 1426
+  label: 大辯無邊願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-35
+    span:
+    - body
+    - 1455
+    - 1455
+  label: 國淨普照願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-36
+    span:
+    - body
+    - 1492
+    - 1492
+  label: 無量勝音願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-37
+    span:
+    - body
+    - 1525
+    - 1525
+  label: 蒙光安樂願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-38
+    span:
+    - body
+    - 1561
+    - 1561
+  label: 成就總持願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-39
+    span:
+    - body
+    - 1593
+    - 1593
+  label: 永離女身願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-40
+    span:
+    - body
+    - 1638
+    - 1638
+  label: 聞名至果願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-41
+    span:
+    - body
+    - 1673
+    - 1673
+  label: 天人敬禮願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-42
+    span:
+    - body
+    - 1710
+    - 1710
+  label: 須衣隨念願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-43
+    span:
+    - body
+    - 1743
+    - 1743
+  label: 纔生心淨願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-44
+    span:
+    - body
+    - 1780
+    - 1780
+  label: 樹現佛剎願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-45
+    span:
+    - body
+    - 1818
+    - 1818
+  label: 無諸根缺願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-46
+    span:
+    - body
+    - 1852
+    - 1852
+  label: 現證等持願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-47
+    span:
+    - body
+    - 1885
+    - 1885
+  label: 聞生豪貴願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-48
+    span:
+    - body
+    - 1918
+    - 1918
+  label: 具足善根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-49
+    span:
+    - body
+    - 1951
+    - 1951
+  label: 供佛堅固願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-50
+    span:
+    - body
+    - 1988
+    - 1988
+  label: 欲聞自聞願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-51
+    span:
+    - body
+    - 2021
+    - 2021
+  label: 菩提無退願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-52
+    span:
+    - body
+    - 2054
+    - 2054
+  label: 現獲忍地願
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-53
+    span:
+    - body
+    - 2144
+    - 2144
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-54
+    span:
+    - body
+    - 2392
+    - 2392
+  label: 彌陀名號　壽光莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-55
+    span:
+    - body
+    - 2578
+    - 2578
+  label: 三大士觀　寶像莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-56
+    span:
+    - body
+    - 2845
+    - 2845
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-57
+    span:
+    - body
+    - 3102
+    - 3102
+  label: 彌陀國土　極樂莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-58
+    span:
+    - body
+    - 4508
+    - 4508
+  label: 寶河清淨　德水莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-59
+    span:
+    - body
+    - 4774
+    - 4774
+  label: 寶殿如意　樓閣莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-60
+    span:
+    - body
+    - 4840
+    - 4840
+  label: 晝夜長遠　時分莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-61
+    span:
+    - body
+    - 4904
+    - 4904
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-62
+    span:
+    - body
+    - 5159
+    - 5159
+  label: 二十四樂　淨土莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-63
+    span:
+    - body
+    - 5343
+    - 5343
+  label: 三十種益　功德莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0084_X_005-mulu-64
+    span:
+    - body
+    - 5633
+    - 5633
+  label: 結文
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0084_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 5940
+  label: 禮念彌陀道場懺法卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0084_X_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 禮懺罪障第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0084_X_006-mulu-2
+    span:
+    - body
+    - 3657
+    - 3657
+  label: 發菩提心第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 5387
+  label: 禮念彌陀道場懺法卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 發願往生第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-3
+    span:
+    - body
+    - 1388
+    - 1388
+  label: 初發眼根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-4
+    span:
+    - body
+    - 1753
+    - 1753
+  label: 次發耳根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-5
+    span:
+    - body
+    - 2126
+    - 2126
+  label: 次發鼻根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-6
+    span:
+    - body
+    - 2453
+    - 2453
+  label: 次發舌根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-7
+    span:
+    - body
+    - 2781
+    - 2781
+  label: 次發身根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-8
+    span:
+    - body
+    - 3131
+    - 3131
+  label: 次發意根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0084_X_007-mulu-9
+    span:
+    - body
+    - 3597
+    - 3597
+  label: 次發口願
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0084_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 5704
+  label: 禮念彌陀道場懺法卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0084_X_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 求生行門第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0084_X_008-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0084_X_008-mulu-3
+    span:
+    - body
+    - 2580
+    - 2580
+  label: 三輩求生門
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0084_X_008-mulu-4
+    span:
+    - body
+    - 3300
+    - 3300
+  label: 九品求生門
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0084_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 5130
+  label: 禮念彌陀道場懺法卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0084_X_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 求生行門之餘
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0084_X_009-mulu-2
+    span:
+    - body
+    - 3577
+    - 3577
+  label: 總為禮佛第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0084_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 5259
+  label: 禮念彌陀道場懺法卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0084_X_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 自慶第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0084_X_010-mulu-2
+    span:
+    - body
+    - 1791
+    - 1791
+  label: 普皆迴向第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0084_X_010-mulu-3
+    span:
+    - body
+    - 3344
+    - 3344
+  label: 囑累流通第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0084_X_010-mulu-4
+    span:
+    - body
+    - 4730
+    - 4730
+  label: No. 1467-D
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0084_X_010-mulu-5
+    span:
+    - body
+    - 5048
+    - 5048
+  label: No. 1467-E 彌陀道場懺法跋
+  type: mulu
+  level: 1
+hash: sha256:9686e690dc70139ec6fb58cc71f3cfbb4d850ac6500023d7ed63ea6a8a12db9a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
