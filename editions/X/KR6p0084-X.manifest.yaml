@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0084_000-X.yaml, hash: 'sha256:c6e1d0c0a5e09e9a030270382196c9d0bac32ec4cb7dc30bc29691d8199765cf'}
+  - {seq: 0, filename: KR6p0084_000-X.yaml, hash: 'sha256:5a9277653ab669cc1e451d7a3c41e2cefe34cf4404f1223f55b0aa6f32903abd'}
   - {seq: 1, filename: KR6p0084_001-X.yaml, hash: 'sha256:c2582bd4dfd691d26339b52ecccd0bf552530710b974e70b3ea26546092f345e'}
   - {seq: 2, filename: KR6p0084_002-X.yaml, hash: 'sha256:013bd1383a138d488cc810b7dc000bc785052145ecf574cdf80ed9da95dca441'}
   - {seq: 3, filename: KR6p0084_003-X.yaml, hash: 'sha256:763da127db26aa842c4857ca5617abd97c0b38844528fad497d05f02cafae808'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6p0084_009-X.yaml, hash: 'sha256:894c71171290860b59f99d6da8dc97445bcee9d7f678e221a08344b0540c25d6'}
   - {seq: 10, filename: KR6p0084_010-X.yaml, hash: 'sha256:639078b79aa7350fca11aa2529344998917c1796d28bdde862c1ba36cdfa18ea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0084_000-X.markers.yaml, hash: 'sha256:80833f33a6675325b5174270b76fa8862a9c8d7e80cd76229d4306c785f3e7db'}
+  - {seq: 0, role: markers, filename: assets/KR6p0084_000-X.markers.yaml, hash: 'sha256:7ecf42279f6f8616cde65c7ec396490d1250a7c5cc30d82188ead1d9cc1f3f66'}
   - {seq: 1, role: markers, filename: assets/KR6p0084_001-X.markers.yaml, hash: 'sha256:ab3c3d210a1b4e308f27237d172cf9f9ff94927541282a50712c7db7a2a9eccc'}
   - {seq: 2, role: markers, filename: assets/KR6p0084_002-X.markers.yaml, hash: 'sha256:3171d4f6dd561cd9a691c929952688b352a06e3a156e368e085e5294e3b19a7b'}
   - {seq: 3, role: markers, filename: assets/KR6p0084_003-X.markers.yaml, hash: 'sha256:2e28a8347f41bf639da141ec6cfb091521886a10675539bda85b1e192cc87f33'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0084_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1467-A 重刊禮念彌陀道場懺法序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0084_X_000-mulu-2
     span:
-    - front
+    - body
     - 333
     - 333
   label: No. 1467-B 彌陀懺讚
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0084_X_000-mulu-3
     span:
-    - front
+    - body
     - 737
     - 737
   label: No. 1467-C 彌陀懺序
@@ -1693,4 +1693,4 @@ table_of_contents:
   label: No. 1467-E 彌陀道場懺法跋
   type: mulu
   level: 1
-hash: sha256:53a1a15a8c2e2a59ad3a18efb37622bc40d1428878589e738f186f748e8ed150
+hash: sha256:282b4cbb2fdbecdc1edac8ce5b89197d8ba49d1da65fc485274ec9b61abe6f78
